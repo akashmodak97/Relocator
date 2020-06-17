@@ -16,6 +16,8 @@ To install fptutil :
 To install Coloroma :
 
 `python -m pip install colorama`
+###### Dependencies
+OS - Windows operating system
 
 ###### Let's set the parameters
 To run the script you need to make some changes in the **details.json** file.
